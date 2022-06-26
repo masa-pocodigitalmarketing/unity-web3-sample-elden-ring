@@ -41,7 +41,7 @@ namespace Web3_Elden_Ring
         
         private void OnPlayerDamaged(float damage)
         {
-            //playerCurrentHealth.fillAmount -= damage;
+            playerCurrentHealth.fillAmount -= damage;
 
             if (playerCurrentHealth.fillAmount <= 0)
             {
