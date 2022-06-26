@@ -1,4 +1,8 @@
-# 🎮 Web3 Elden Ring Clone 🎮
+# 🎮 Web3 Elden Ring Finished! 🎮
+
+![スクリーンショット 2022-06-26 131405](https://user-images.githubusercontent.com/47092186/175799430-b0f91bf7-8991-4e33-a809-687506fad39f.png)
+
+![スクリーンショット 2022-06-26 131524](https://user-images.githubusercontent.com/47092186/175799419-a2578ac6-588d-4cde-aeeb-95b06532ac28.png)
 
 Yes, you read that right. For this week's project, we cloned a boss fight in Elden Ring using Unity and Moralis. You're going to learn how to add Web3 elements to the gameplay, so the loot that the boss will drop will be ERC-721 and ERC-20 tokens.
 
